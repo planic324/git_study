@@ -16,3 +16,4 @@
 ### 5-1. main(marster) 변경사항 발생
 
 ## 6. 다시 한번 rebase 테스트
+### 6-1. main(master) 변경사항 발생
